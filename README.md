@@ -42,7 +42,8 @@ pip install -r requirements.txt
 ```
 3. Run:
 ```
-python main.py
+jupyter notebook ECG_signal_compression.ipynb
+
 ```
 
 ## Usage
@@ -77,10 +78,10 @@ print(f"Compressed shape: {latent_codes.shape}")  # (n_segments, 2)
 ## Project Structure
 ```
 .
-├── ecg_autoencoder_model.h5   # Trained Keras autoencoder model
-├── sample_ecg.csv             # Sample ECG signal (MLII lead, ~5000 samples)
-├── main.py                    # Entry point
-├── requirements.txt           # Python dependencies
+├── ecg_autoencoder_model.h5                       # Trained Keras autoencoder model
+├── sample_ecg.csv                                 # Sample ECG signal (MLII lead, ~5000 samples)
+├── ECG_signal_compression.ipynb                   # Entry point
+├── requirements.txt                               # Python dependencies
 └── README.md
 ```
 
