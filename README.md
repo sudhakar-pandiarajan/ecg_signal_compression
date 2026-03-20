@@ -7,7 +7,7 @@ This project focuses on compressing single-lead ECG signals using a fully connec
 - ECG signal compression with 18x compression ratio (36 dimensions to 2)
 - Signal reconstruction via symmetric decoder with residual connection
 - Latent space extraction for compressed storage or transmission
-- Performance evaluation (MSE,MAE, PRD, CR, QS)
+- Performance evaluation (MSE,MAE,PRD,RMS,CR,QS)
 - Batch Normalization and Dropout regularization for robust generalization
 - Custom combined loss training with Adam optimizer
 
