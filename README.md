@@ -34,7 +34,7 @@ Decoder: 2 -> 4 -> 8 -> 16 -> 20 -> 26 -> 32 -> 36 (+ residual)
 ## How to Run
 1. Clone the repository:
 ```
-git clone <repository-link>
+git clone https://github.com/sudhakar-pandiarajan/ecg_signal_compression.git
 ```
 2. Install dependencies:
 ```
