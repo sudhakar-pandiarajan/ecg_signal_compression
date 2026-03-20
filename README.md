@@ -95,8 +95,8 @@ If you use this work in your research, please cite:
 @article{binu2025ecg,
   title   = {Memory Efficient ECG Signal Compression using Deep Auto-Encoder},
   author  = {Binu, Arunima and P, Sudhakar and R, Manoov and Job, Manoj},
-  journal = {Journal of Medical Sciences},
-  year    = {2025},
+  journal = {Journal of Medical Systems},
+  year    = {2026},
   note    = {Submitted for consideration}
 }
 ```
