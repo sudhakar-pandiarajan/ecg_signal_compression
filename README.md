@@ -89,5 +89,17 @@ print(f"Compressed shape: {latent_codes.shape}")  # (n_segments, 2)
 - The model was trained with a custom combined loss function. When loading the model, pass the custom loss via `custom_objects` if it is not registered globally.
 - The residual Add layer adds the original input to the decoder output, helping preserve low-frequency signal trends during reconstruction.
 
+## Citation
+If you use this work in your research, please cite:
+```
+@article{binu2025ecg,
+  title   = {Memory Efficient ECG Signal Compression using Deep Auto-Encoder},
+  author  = {Binu, Arunima and P, Sudhakar and R, Manoov and Job, Manoj},
+  journal = {Journal of Medical Sciences},
+  year    = {2025},
+  note    = {Submitted}
+}
+```
+
 ## License
 MIT
