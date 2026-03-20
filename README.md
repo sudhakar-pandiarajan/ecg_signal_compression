@@ -80,7 +80,7 @@ print(f"Compressed shape: {latent_codes.shape}")  # (n_segments, 2)
 .
 ├── ecg_autoencoder_model.h5                       # Trained Keras autoencoder model
 ├── sample_ecg.csv                                 # Sample ECG signal (MLII lead, ~5000 samples)
-├── ECG_signal_compression.ipynb                   # Entry point
+├── ECG_signal_compression.ipynb                   # Jupyter notebook (main entry point)
 ├── requirements.txt                               # Python dependencies
 └── README.md
 ```
