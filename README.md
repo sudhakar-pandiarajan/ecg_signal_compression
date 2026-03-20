@@ -97,7 +97,7 @@ If you use this work in your research, please cite:
   author  = {Binu, Arunima and P, Sudhakar and R, Manoov and Job, Manoj},
   journal = {Journal of Medical Sciences},
   year    = {2025},
-  note    = {Submitted}
+  note    = {Submitted for consideration}
 }
 ```
 
