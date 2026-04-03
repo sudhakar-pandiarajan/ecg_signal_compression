@@ -92,10 +92,10 @@ print(f"Compressed shape: {latent_codes.shape}")  # (n_segments, 2)
 ## Citation
 If you use this work in your research, please cite:
 ```
-@article{binu2025ecg,
+@article{binu2026ecg,
   title   = {Memory Efficient ECG Signal Compression using Deep Auto-Encoder},
   author  = {Binu, Arunima and P, Sudhakar and R, Manoov and Job, Manoj},
-  journal = {Journal of Medical Systems},
+  journal = {Biomedical Signal Processing and Control},
   year    = {2026},
   note    = {Submitted for consideration}
 }
