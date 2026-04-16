@@ -1,4 +1,4 @@
-# Deep Autoencoder-Based Approach for Memory-Efficient ECG Signal Compression
+#A Deep Autoencoder Framework for Lossless Compression of Physiological Signals in Intensive Care Units
 
 ## Overview
 This project focuses on compressing single-lead ECG signals using a fully connected deep autoencoder built with Keras. The model learns a compact 2-dimensional latent representation from 36-point ECG segments, achieving an 18x compression ratio while preserving clinically relevant signal characteristics through a residual skip connection.
@@ -93,7 +93,7 @@ print(f"Compressed shape: {latent_codes.shape}")  # (n_segments, 2)
 If you use this work in your research, please cite:
 ```
 @article{binu2026ecg,
-  title   = {Deep Autoencoder-Based Approach for Memory-Efficient ECG Signal Compression},
+  title   = {A Deep Autoencoder Framework for Lossless Compression of Physiological Signals in Intensive Care Units},
   author  = {Binu, Arunima and P, Sudhakar and R, Manoov and Job, Manoj},
   journal = {Biomedical Signal Processing and Control},
   year    = {2026},
