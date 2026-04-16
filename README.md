@@ -1,4 +1,4 @@
-#A Deep Autoencoder Framework for Lossless Compression of Physiological Signals in Intensive Care Units
+# A Deep Autoencoder Framework for Lossless Compression of Physiological Signals in Intensive Care Units
 
 ## Overview
 This project focuses on compressing single-lead ECG signals using a fully connected deep autoencoder built with Keras. The model learns a compact 2-dimensional latent representation from 36-point ECG segments, achieving an 18x compression ratio while preserving clinically relevant signal characteristics through a residual skip connection.
